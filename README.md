@@ -23,7 +23,7 @@ A fully interactive 3D simulation of our solar system built with Three.js. This 
 
 1. Clone the repository:
    ```bash
-   git clone //github repository link
+   git clone //(https://meenu-narwal.github.io/3D-simulation-of-the-solar-system/)
 
 ## Usage
 
